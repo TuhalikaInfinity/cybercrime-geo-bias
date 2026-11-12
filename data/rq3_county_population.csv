@@ -1,0 +1,25 @@
+stratum,state,county,key,no,unknown,yes,population
+S3_zero_events,Texas,Loving,Texas|loving,2,0,0,52.0
+S3_zero_events,Texas,King,Texas|king,0,1,0,192.0
+S3_zero_events,Texas,Kenedy,Texas|kenedy,2,0,0,319.0
+S3_zero_events,Nebraska,McPherson,Nebraska|mcpherson,0,2,0,369.0
+S3_zero_events,Nebraska,Arthur,Nebraska|arthur,0,2,0,396.0
+S3_zero_events,Montana,Petroleum,Montana|petroleum,2,0,0,548.0
+S3_zero_events,Texas,Borden,Texas|borden,2,0,0,567.0
+S3_zero_events,Montana,Treasure,Montana|treasure,1,1,0,728.0
+S2_one_event,Alabama,Escambia,Alabama|escambia,0,0,2,36665.0
+S2_one_event,West Virginia,Wayne,West Virginia|wayne,1,0,1,37309.0
+S2_one_event,New York,Wyoming,New York|wyoming,1,1,0,39741.0
+S2_one_event,Wyoming,Sweetwater,Wyoming|sweetwater,0,0,2,41267.0
+S2_one_event,Rhode Island,Washington,Rhode Island|washington,0,0,2,129795.0
+S2_one_event,North Carolina,Gaston,North Carolina|gaston,0,0,2,246558.0
+S2_one_event,Georgia,Gwinnett ,Georgia|gwinnett,0,0,2,1018099.0
+S1_high,Georgia,Fulton,Georgia|fulton,0,0,2,1098791.0
+S1_high,Minnesota,Hennepin,Minnesota|hennepin,0,0,2,1284784.0
+S1_high,New York,New York,New York|new york,0,0,2,1664862.0
+S1_high,Massachusetts,Middlesex,Massachusetts|middlesex,0,0,2,1669979.0
+S1_high,Washington,King,Washington|king,0,0,2,2344939.0
+S1_high,Texas,Harris,Texas|harris,0,0,2,5045026.0
+S1_high,Illinois,Cook,Illinois|cook,0,0,2,5194625.0
+S1_high,California,Los Angeles,California|los angeles,0,0,2,9694934.0
+S2_one_event,New Jersey,Hillsborough,New Jersey|hillsborough,0,0,2,

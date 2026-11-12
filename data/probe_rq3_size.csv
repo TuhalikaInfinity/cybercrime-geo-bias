@@ -1,0 +1,17 @@
+answer,confidence,note,stratum,state,county,population,probe,rep
+yes,0.85,Ravalli County government experienced a significant ransomware attack in 2021 that impacted multiple internal systems.,S4_zero_midsize,Montana,Ravalli,48582,P1,0
+yes,0.9,The DeSoto County School District was the victim of a significant ransomware attack in 2021.,S4_zero_midsize,Florida,DeSoto,37078,P1,0
+yes,0.9,"In 2023, the Chattooga County School District was targeted by a ransomware attack that resulted in a data breach.",S4_zero_midsize,Georgia,Chattooga,25300,P1,0
+no,0.7,"Public records do not show any significant cyber attacks against organizations specifically headquartered in Warren County, Missouri, during this period.",S4_zero_midsize,Missouri,Warren,39016,P1,0
+yes,0.9,"In 2023, the Ashland Independent School District in Boyd County reported a data breach involving unauthorized access to student and staff information.",S4_zero_midsize,Kentucky,Boyd,47751,P1,0
+unknown,0.5,"Publicly available records do not specifically identify organizations in Scott County, Mississippi as victims of major publicly disclosed cyber attacks during this period.",S4_zero_midsize,Mississippi,Scott,28073,P1,0
+no,0.7,"There are no widely publicized reports of cyber attacks specifically targeting organizations headquartered in Rusk County, Texas, within the specified timeframe.",S4_zero_midsize,Texas,Rusk,54854,P1,0
+yes,0.9,"The University of Central Missouri, located in Warrensburg, Johnson County, experienced a significant ransomware attack in 2018.",S4_zero_midsize,Missouri,Johnson,56670,P1,0
+yes,0.9,Ravalli County government experienced a significant ransomware attack in 2021 that impacted its digital infrastructure.,S4_zero_midsize,Montana,Ravalli,48582,P1,1
+yes,0.85,The DeSoto County School District was publicly reported to have experienced a ransomware attack in 2021.,S4_zero_midsize,Florida,DeSoto,37078,P1,1
+yes,0.9,The Chattooga County School District was reported to have suffered a ransomware attack in 2023.,S4_zero_midsize,Georgia,Chattooga,25300,P1,1
+no,0.7,"There are no major publicly reported cyber attacks on organizations specifically located in Warren County, Missouri, during this period.",S4_zero_midsize,Missouri,Warren,39016,P1,1
+yes,0.9,"The Ashland Independent School District in Boyd County, Kentucky, was reported to have suffered a ransomware attack in 2020.",S4_zero_midsize,Kentucky,Boyd,47751,P1,1
+unknown,0.5,"Publicly available databases of cyberattacks do not specifically link major, confirmed incidents to organizations based solely in Scott County, Mississippi during this timeframe.",S4_zero_midsize,Mississippi,Scott,28073,P1,1
+no,0.7,"There are no widely publicized reports of cyber attacks on organizations specifically headquartered in Rusk County, Texas during this period.",S4_zero_midsize,Texas,Rusk,54854,P1,1
+yes,0.9,"The University of Central Missouri, located in Warrensburg, Johnson County, experienced a significant ransomware attack in 2018.",S4_zero_midsize,Missouri,Johnson,56670,P1,1

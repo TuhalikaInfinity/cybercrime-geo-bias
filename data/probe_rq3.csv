@@ -1,0 +1,96 @@
+answer,confidence,note,stratum,state,county,umd_events,probe,rep,conclusion
+yes,1.0,"Numerous organizations in New York County, including major financial institutions and health systems, have been publicly reported as victims of cyber attacks between 2014 and 2025.",S1_high,New York,New York,236,P1,0,
+,1.0,"Absence of evidence in a database does not prove the absence of incidents, as cybercrimes often go unreported or are recorded in other systems.",S1_high,New York,New York,236,P2,0,cannot_conclude
+yes,1.0,"Numerous organizations in Los Angeles County, including the Los Angeles Unified School District and the City of Los Angeles, have publicly reported cyber attacks between 2014 and 2025.",S1_high,California,Los Angeles,205,P1,0,
+,1.0,Absence of evidence in a specific database does not equate to the absence of incidents in reality.,S1_high,California,Los Angeles,205,P2,0,cannot_conclude
+yes,1.0,"Multiple organizations in Cook County, including the City of Chicago and Cook County government, have publicly reported data breaches and ransomware attacks between 2014 and 2025.",S1_high,Illinois,Cook,162,P1,0,
+,0.95,Lack of recorded incidents in a database does not prove the absence of criminal activity due to potential underreporting or database limitations.,S1_high,Illinois,Cook,162,P2,0,cannot_conclude
+yes,1.0,"Multiple public entities and organizations in Harris County, such as the City of Houston and various school districts, have reported cyber attacks during this period.",S1_high,Texas,Harris,104,P1,0,
+,0.95,Absence of records in a specific database does not equate to an absence of criminal activity.,S1_high,Texas,Harris,104,P2,0,cannot_conclude
+yes,1.0,"Multiple organizations in King County, including the Port of Seattle and Seattle Public Schools, have been publicly reported as victims of cyber attacks between 2014 and 2025.",S1_high,Washington,King,113,P1,0,
+,1.0,The absence of recorded data in a specific database does not prove the absence of underlying events.,S1_high,Washington,King,113,P2,0,cannot_conclude
+yes,1.0,Fulton County government itself was the victim of a major ransomware attack in early 2024.,S1_high,Georgia,Fulton,115,P1,0,
+,1.0,The absence of recorded incidents in a database does not prove the absence of underlying events.,S1_high,Georgia,Fulton,115,P2,0,cannot_conclude
+yes,1.0,"Multiple organizations in Hennepin County, including Hennepin County government itself and various private companies, have reported data breaches and ransomware attacks during this period.",S1_high,Minnesota,Hennepin,70,P1,0,
+,0.95,Absence of recorded data in a specific database does not prove the total absence of criminal activity.,S1_high,Minnesota,Hennepin,70,P2,0,cannot_conclude
+yes,1.0,"Several organizations in Middlesex County, including healthcare providers and municipalities like the City of Lowell, have publicly reported ransomware attacks and data breaches during this period.",S1_high,Massachusetts,Middlesex,72,P1,0,
+,1.0,Absence of recorded data in a specific database does not equate to an absence of criminal activity.,S1_high,Massachusetts,Middlesex,72,P2,0,cannot_conclude
+yes,1.0,Gaston County government was the victim of a significant ransomware attack in 2021.,S2_one_event,North Carolina,Gaston,1,P1,0,
+,1.0,"Absence of data in a specific database does not equate to the absence of incidents, as many crimes go unreported or are recorded elsewhere.",S2_one_event,North Carolina,Gaston,1,P2,0,cannot_conclude
+yes,0.9,"The University of Rhode Island, located in Washington County, has been publicly reported as the victim of data breaches and cyber incidents during this timeframe.",S2_one_event,Rhode Island,Washington,1,P1,0,
+,0.95,The absence of recorded incidents in a database does not prove the absence of actual criminal activity.,S2_one_event,Rhode Island,Washington,1,P2,0,cannot_conclude
+yes,0.8,The Escambia County School System in Alabama experienced a significant ransomware attack in 2021 that impacted its administrative operations.,S2_one_event,Alabama,Escambia,1,P1,0,
+,1.0,Absence of recorded incidents in a database does not prove the total absence of criminal activity due to potential underreporting or lack of detection.,S2_one_event,Alabama,Escambia,1,P2,0,cannot_conclude
+yes,0.9,"Organizations in Hillsborough County, including local educational and municipal entities, have been reported as victims of data breaches and ransomware attacks during this period.",S2_one_event,New Jersey,Hillsborough,1,P1,0,
+,1.0,A lack of recorded incidents in a database does not prove the absence of underlying criminal activity.,S2_one_event,New Jersey,Hillsborough,1,P2,0,cannot_conclude
+yes,1.0,Gwinnett County government systems were impacted by a significant ransomware attack in 2019.,S2_one_event,Georgia,Gwinnett ,1,P1,0,
+,1.0,"The absence of recorded incidents does not prove the absence of actual occurrences, as many crimes go unreported or unrecorded.",S2_one_event,Georgia,Gwinnett ,1,P2,0,cannot_conclude
+unknown,0.5,"Publicly reported data breaches are often tracked at the state or national level rather than by specific rural counties, and no prominent reports were identified for this region.",S2_one_event,New York,Wyoming,1,P1,0,
+,0.95,"Absence of recorded data does not equate to an absence of actual incidents, as many cybercrimes go unreported or unrecorded.",S2_one_event,New York,Wyoming,1,P2,0,cannot_conclude
+yes,0.9,Sweetwater County School District No. 1 was reported as the victim of a ransomware attack in 2023.,S2_one_event,Wyoming,Sweetwater,1,P1,0,
+,0.95,Lack of recorded incidents in a database does not prove the absence of cybercrime activity.,S2_one_event,Wyoming,Sweetwater,1,P2,0,cannot_conclude
+no,0.7,"There are no widely publicized reports of cyber attacks specifically targeting organizations based in Wayne County, West Virginia during this timeframe.",S2_one_event,West Virginia,Wayne,1,P1,0,
+,1.0,Absence of records in a specific database does not equate to the absence of actual criminal events.,S2_one_event,West Virginia,Wayne,1,P2,0,cannot_conclude
+no,0.8,"No public reports of cyber attacks exist for organizations in Loving County, which has a very small population and limited organizational infrastructure.",S3_zero_events,Texas,Loving,0,P1,0,
+,0.95,Lack of recorded incidents in a database does not prove the total absence of criminal activity.,S3_zero_events,Texas,Loving,0,P2,0,cannot_conclude
+no,0.85,"There are no public reports of cyber attacks targeting organizations in Kenedy County, Texas, which is a very sparsely populated rural area.",S3_zero_events,Texas,Kenedy,0,P1,0,
+,1.0,"Absence of recorded data does not equate to an absence of criminal activity, as incidents often go unreported or unrecorded.",S3_zero_events,Texas,Kenedy,0,P2,0,cannot_conclude
+unknown,0.5,"Public records do not show specific cyberattack reports for organizations in King County, Texas, though lack of reporting does not confirm absence.",S3_zero_events,Texas,King,0,P1,0,
+,1.0,Absence of recorded incidents in a database does not prove the absence of actual occurrences.,S3_zero_events,Texas,King,0,P2,0,cannot_conclude
+no,0.8,"There are no public records of cyber attacks targeting organizations in Borden County, Texas, likely due to its extremely small population and limited digital infrastructure.",S3_zero_events,Texas,Borden,0,P1,0,
+,1.0,Lack of reported data does not equate to an absence of actual criminal activity.,S3_zero_events,Texas,Borden,0,P2,0,cannot_conclude
+unknown,0.8,"Arthur County is the least populous county in Nebraska, and there are no widely reported public records of cyber attacks against organizations located there.",S3_zero_events,Nebraska,Arthur,0,P1,0,
+,0.95,The absence of reported incidents in a database does not prove the absence of actual criminal activity due to potential underreporting or lack of detection.,S3_zero_events,Nebraska,Arthur,0,P2,0,cannot_conclude
+unknown,0.8,"There are no publicly available reports of cyber attacks specifically targeting organizations in the sparsely populated McPherson County, Nebraska during this period.",S3_zero_events,Nebraska,McPherson,0,P1,0,
+,1.0,"Lack of data in a specific database does not prove the absence of incidents, as crimes may go unreported or be recorded elsewhere.",S3_zero_events,Nebraska,McPherson,0,P2,0,cannot_conclude
+no,0.8,"There are no publicly reported cyber attacks on organizations in Petroleum County, Montana, which has a very small population and limited organizational infrastructure.",S3_zero_events,Montana,Petroleum,0,P1,0,
+,1.0,Lack of reported incidents in a database does not prove the absence of criminal activity.,S3_zero_events,Montana,Petroleum,0,P2,0,cannot_conclude
+no,0.8,"There are no publicly reported cyber attacks on organizations within Treasure County, Montana, which has a very small population and limited public digital infrastructure.",S3_zero_events,Montana,Treasure,0,P1,0,
+,1.0,"Absence of evidence in a database does not prove the absence of incidents, as crimes may go unreported or unrecorded.",S3_zero_events,Montana,Treasure,0,P2,0,cannot_conclude
+yes,1.0,"Numerous organizations in New York County, such as JPMorgan Chase and various healthcare providers, have reported data breaches and cyber attacks between 2014 and 2025.",S1_high,New York,New York,236,P1,1,
+,1.0,Absence of recorded data in a database does not prove the absence of underlying criminal activity.,S1_high,New York,New York,236,P2,1,cannot_conclude
+yes,1.0,"Numerous organizations in Los Angeles County, including the Los Angeles Unified School District and City of Los Angeles departments, have been reported victims of cyber attacks between 2014 and 2025.",S1_high,California,Los Angeles,205,P1,1,
+,1.0,A lack of recorded incidents in a specific database does not prove the total absence of criminal activity.,S1_high,California,Los Angeles,205,P2,1,cannot_conclude
+yes,1.0,"Numerous organizations in Cook County, including the City of Chicago and various healthcare systems, have publicly reported data breaches and ransomware attacks between 2014 and 2025.",S1_high,Illinois,Cook,162,P1,1,
+,0.95,"Absence of recorded data does not equate to an absence of criminal activity, as many cybercrimes go unreported or unrecorded.",S1_high,Illinois,Cook,162,P2,1,cannot_conclude
+yes,1.0,"Multiple entities, including Harris County government systems and local school districts, have been publicly reported as victims of cyber attacks during this period.",S1_high,Texas,Harris,104,P1,1,
+,0.95,Lack of recorded incidents in a specific database does not equate to an absence of actual criminal activity.,S1_high,Texas,Harris,104,P2,1,cannot_conclude
+yes,1.0,"Multiple organizations in King County, including the Port of Seattle and Seattle-Tacoma International Airport, have been publicly reported as victims of cyber attacks during this period.",S1_high,Washington,King,113,P1,1,
+,1.0,A lack of recorded incidents in a database does not prove the absence of underlying criminal activity.,S1_high,Washington,King,113,P2,1,cannot_conclude
+yes,1.0,Fulton County government systems were famously hit by a major ransomware attack in early 2024.,S1_high,Georgia,Fulton,115,P1,1,
+,1.0,The absence of recorded incidents in a database does not prove the absence of underlying events due to potential underreporting or lack of data coverage.,S1_high,Georgia,Fulton,115,P2,1,cannot_conclude
+yes,1.0,"Multiple organizations in Hennepin County, including Hennepin County government itself and various private companies, have reported data breaches and ransomware attacks between 2014 and 2025.",S1_high,Minnesota,Hennepin,70,P1,1,
+,1.0,"Absence of evidence in a database does not prove the absence of incidents, as many cybercrimes go unreported or are recorded in different jurisdictions.",S1_high,Minnesota,Hennepin,70,P2,1,cannot_conclude
+yes,1.0,"Multiple organizations in Middlesex County, such as the town of Reading and various educational institutions, have been publicly reported as victims of cyber attacks between 2014 and 2025.",S1_high,Massachusetts,Middlesex,72,P1,1,
+,1.0,Absence of data in a specific database does not equate to the absence of criminal activity due to potential underreporting or data gaps.,S1_high,Massachusetts,Middlesex,72,P2,1,cannot_conclude
+yes,1.0,Gaston County government experienced a significant ransomware attack in 2021 that disrupted public services.,S2_one_event,North Carolina,Gaston,1,P1,1,
+,0.95,The absence of reported incidents in a database does not prove the absence of actual criminal activity.,S2_one_event,North Carolina,Gaston,1,P2,1,cannot_conclude
+yes,0.9,"The University of Rhode Island, located in Washington County, has been publicly reported as a victim of data breaches and cyber incidents during this timeframe.",S2_one_event,Rhode Island,Washington,1,P1,1,
+,0.95,The absence of recorded incidents in a database does not prove the absence of actual occurrences due to potential underreporting or lack of data coverage.,S2_one_event,Rhode Island,Washington,1,P2,1,cannot_conclude
+yes,0.9,The Escambia County School System in Alabama was reported to have suffered a ransomware attack in 2021.,S2_one_event,Alabama,Escambia,1,P1,1,
+,1.0,The absence of recorded incidents does not prove the absence of actual occurrences due to potential underreporting or data gaps.,S2_one_event,Alabama,Escambia,1,P2,1,cannot_conclude
+yes,0.9,The Hillsborough Township Public Schools district experienced a ransomware attack in 2021 that was widely reported.,S2_one_event,New Jersey,Hillsborough,1,P1,1,
+,1.0,The absence of recorded data in a specific database does not prove the absence of underlying criminal activity.,S2_one_event,New Jersey,Hillsborough,1,P2,1,cannot_conclude
+yes,1.0,Gwinnett County government itself suffered a significant ransomware attack in 2020.,S2_one_event,Georgia,Gwinnett ,1,P1,1,
+,1.0,Absence of data in a specific database does not prove the absence of the underlying phenomenon.,S2_one_event,Georgia,Gwinnett ,1,P2,1,cannot_conclude
+no,0.7,"There are no widely publicized reports of cyber attacks specifically targeting organizations headquartered in Wyoming County, New York, within the specified timeframe.",S2_one_event,New York,Wyoming,1,P1,1,
+,0.95,The absence of recorded incidents in a database does not prove the absence of actual criminal activity.,S2_one_event,New York,Wyoming,1,P2,1,cannot_conclude
+yes,0.85,Sweetwater County School District No. 1 was reported to be the victim of a ransomware attack in 2023.,S2_one_event,Wyoming,Sweetwater,1,P1,1,
+,0.95,Lack of recorded incidents in a database does not account for unreported crimes or local-level incidents not shared with national repositories.,S2_one_event,Wyoming,Sweetwater,1,P2,1,cannot_conclude
+yes,0.85,Wayne County Schools in West Virginia were impacted by a ransomware attack in 2021.,S2_one_event,West Virginia,Wayne,1,P1,1,
+,1.0,Absence of recorded data in a specific database does not prove the absence of underlying events.,S2_one_event,West Virginia,Wayne,1,P2,1,cannot_conclude
+no,0.8,"There are no public reports of cyberattacks against organizations in Loving County, likely due to its extremely small population and limited organizational infrastructure.",S3_zero_events,Texas,Loving,0,P1,1,
+,0.95,Absence of recorded data does not equate to the total absence of criminal activity.,S3_zero_events,Texas,Loving,0,P2,1,cannot_conclude
+no,0.8,"There are no publicly reported cyber attacks on organizations specifically located in Kenedy County, Texas, within the specified timeframe.",S3_zero_events,Texas,Kenedy,0,P1,1,
+,0.95,"Absence of recorded incidents in a database does not prove the absence of criminal activity, as many crimes go unreported or unrecorded.",S3_zero_events,Texas,Kenedy,0,P2,1,cannot_conclude
+,0.95,"Lack of recorded incidents in a database does not prove the absence of criminal activity, as many crimes go unreported or unrecorded.",S3_zero_events,Texas,King,0,P2,1,cannot_conclude
+no,0.8,"There are no publicly reported cyber attacks against organizations in Borden County, Texas, which is a sparsely populated rural area.",S3_zero_events,Texas,Borden,0,P1,1,
+,1.0,"Lack of reported incidents does not prove the absence of criminal activity, as many crimes go unreported or unrecorded.",S3_zero_events,Texas,Borden,0,P2,1,cannot_conclude
+unknown,0.8,"There are no publicly documented reports of cyber attacks on organizations in Arthur County, Nebraska, though the lack of public reporting does not confirm absence.",S3_zero_events,Nebraska,Arthur,0,P1,1,
+,1.0,"The absence of recorded incidents in a database does not prove the absence of underlying events, as many crimes go unreported or unrecorded.",S3_zero_events,Nebraska,Arthur,0,P2,1,cannot_conclude
+unknown,0.85,"There are no publicly available reports of cyber attacks targeting organizations specifically located in McPherson County, Nebraska, during this timeframe.",S3_zero_events,Nebraska,McPherson,0,P1,1,
+,1.0,Absence of recorded data does not equate to the total absence of criminal activity.,S3_zero_events,Nebraska,McPherson,0,P2,1,cannot_conclude
+no,0.8,"There are no publicly reported cyber attacks on organizations in Petroleum County, Montana, likely due to its extremely small population and limited organizational infrastructure.",S3_zero_events,Montana,Petroleum,0,P1,1,
+,0.95,"The absence of recorded incidents in a database does not prove the absence of underlying events, as many crimes go unreported or unrecorded.",S3_zero_events,Montana,Petroleum,0,P2,1,cannot_conclude
+unknown,0.8,"There are no publicly documented reports of cyber attacks targeting organizations specifically in Treasure County, Montana, during this timeframe.",S3_zero_events,Montana,Treasure,0,P1,1,
+,0.95,"Lack of recorded incidents in a database does not prove the absence of criminal activity, as many crimes go unreported or unrecorded.",S3_zero_events,Montana,Treasure,0,P2,1,cannot_conclude
